@@ -38,8 +38,10 @@ Please find my latest CV [here](/files/Yixin Wan_resume_202508_v2.pdf) (updated 
     - Mentors: [Yuan Zhou](https://ieeexplore.ieee.org/author/37089364856)
     - Manager: [Xiulian Peng](https://www.microsoft.com/en-us/research/people/xipe/)
 
-<!-- # Teaching
-* Teaching Assistant, UCLA CS 33, Introduction to Computer Organization: Fall 2023, Spring 2024, Fall 2024 -->
+# Teaching
+* Teaching Assistant, UCLA CS 263, Natural Language Processing: Spring 2023, Spring 2024
+* Teaching Assistant, UCLA CS 31, Introduction to Computer Science, Winter 2025
+* Teaching Assistant, UCL CS 35L, Software Construction, Spring 2025
 
 # Professional Services 
 * Program Committee/Reviewer
