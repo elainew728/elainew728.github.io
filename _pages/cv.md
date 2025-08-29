@@ -29,7 +29,7 @@ Please find my latest CV [here](/files/Yixin Wan_resume_202508_v2.pdf) (updated 
     - Mentors: [Lei Ke](https://www.kelei.site/) and [Wenhao Yu](https://wyu97.github.io/)
     - Manager: [Dong Yu]([https://hongweiw.net/](https://sites.google.com/view/dongyu888/))
 * <span style="color:black; font-size:15px"><b><a href="https://www.amazon.science/" target="_blank"><font color="brown" size="4">Amazon AGI</font></a></b></span> (June 2024 – November. 2024)
-    - Applied Scientist Intern, team <a href="https://labs.amazon.science/" target="_blank">CodeWhisperer</a>
+    - Applied Scientist Intern, team <a href="https://labs.amazon.science/" target="_blank">Amazon AGI</a>
     - Mentors: [Anil Ramakrishna](https://anilkramakrishna.github.io/)
     - Manager: [Rahul Gupta](https://guptarah.github.io/)
 * <span style="color:black; font-size:15px"><b><a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/" target="_blank"><font color="brown" size="4">Microsoft Research Asia</font></a></b></span> (May 2022 – Sept. 2022)
