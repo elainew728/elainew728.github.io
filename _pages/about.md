@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is **Yixin (Elaine) Wan** and I am a PhD student in Computer Science at UCLA. I am fortunate to be advised by Professor [**Kai-Wei Chang**](https://web.cs.ucla.edu/~kwchang/) and have been a proud member of the [UCLANLP](https://web.cs.ucla.edu/~kwchang/members/) research group. My research focuses on building trustworthy multimodal generative models: specirically, I have worked on improving the controllability, fairness, and factuality in text, image and video generation.
-I completed my B.S. in Applied Mathematics (double major in Economics) also at UCLA. Go Bruins! 
+My name is **Yixin (Elaine) Wan** and I am a PhD student in Computer Science at UCLA. I am fortunate to be advised by Professor [**Kai-Wei Chang**](https://web.cs.ucla.edu/~kwchang/) and have been a proud member of the [UCLANLP](https://web.cs.ucla.edu/~kwchang/members/) research group. My research focuses on building trustworthy multimodal generative models: specirically, I have worked on improving the controllability, fairness, and factuality in text, image and video generation. I completed my B.S. in Applied Mathematics (double major in Economics) also at UCLA. Go Bruins! 
 
 Currently, I am a research intern at **Tencent AI Lab** in Bellevue, WA, working on controllable video generation. My mentor is Wenhao Yu and Lei Ke. Previously, I have interned at *Amazon AGI* and *Microsoft Research Asia (MSRA)*.  
 
