@@ -1,36 +1,33 @@
 ---
 layout: archive
-title: "Publications"
+title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+You can find all of my articles on <a href="https://scholar.google.com/citations?user=hZPIICQAAAAJ&hl" target="_blank">my Google Scholar profile</a>.
 
+<br>
+(* = equal contribution)
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
+---
+
+## 🔍 Fairness and Beyond
+
+{% assign publicationsByYear = site.publications | group_by_exp:"post", "post.date | date: '%Y'" %}
+{% for year in publicationsByYear reversed %}
+<!--   <h1 style="margin: 1.5em 0px -0.5em; padding: 0px; color: brown;">{{ year.name }}</h1> -->
+  {% assign publicationsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
+  {% for month in publicationsByMonth reversed %}
+    {% for post in month.items reversed %}
+      {% if post.selected == "true" %}
+        {% if post.topic == "fairness" %}
+          {% include archive-single.html %}
+        {% endif %}
       {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
     {% endfor %}
   {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
-
+{% endfor %}
 
 
