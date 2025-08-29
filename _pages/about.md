@@ -14,10 +14,13 @@ Currently, I am a research intern at **Tencent AI Lab** in Bellevue, WA, working
 
 News
 ======
-* [2025/08/20] 3 long papers accepted to **EMNLP 2025 Findings** 🎉!
-* [2025/06/16] Started my internship at **Tencent AI Lab** (Bellevue)!
-* [2025/05/15] 2 long papers accepted to **ACL 2025 Main** 🎉! Check them out:
+* [2025/08] 3 papers on *LLM Unlearning* and *Fairness* accepted to **EMNLP 2025 Findings** 🎉! Check them out:
+  * [Not Every Token Needs Forgetting: Selective Unlearning to Limit Change in Utility in Large Language Model Unlearning](https://arxiv.org/abs/2506.00876)
+  * [LUME: LLM Unlearning with Multitask Evaluations](https://arxiv.org/abs/2502.15097)
+  * [Fact-or-Fair: A Checklist for Behavioral Testing of AI Models on Fairness-Related Queries](https://arxiv.org/abs/2502.05849)
+* [2025/06] Started my internship at **Tencent AI Lab** (Bellevue)!
+* [2025/05] 2 long papers on *Fairness* accepted to **ACL 2025 Main** 🎉! Check them out:
   * [The Male CEO and the Female Assistant: Evaluation and Mitigation of Gender Biases in Text-To-Image Generation of Dual Subjects](https://arxiv.org/abs/2402.11089)
   * [White Men Lead, Black Women Help? Benchmarking and Mitigating Language Agency Social Biases in LLMs](https://arxiv.org/abs/2404.10508)
-* [2025/05/01] Arrived at Albuquerque! I am serving as the Program Chair at **NAACL 2025's Trustworthy NLP (TrustNLP) Workshop**.
+* [2025/05] Arrived at Albuquerque! I am serving as the Program Chair at **NAACL 2025's Trustworthy NLP (TrustNLP) Workshop**.
   * I am also presenting my recent work on *LLM unlearning* with **Amazon**: [Not Every Token Needs Forgetting: Selective Unlearning to Limit Change in Utility in Large Language Model Unlearning](https://arxiv.org/abs/2506.00876)

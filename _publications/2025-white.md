@@ -1,5 +1,5 @@
 ---
-title: "White Men Lead, Black Women Help? Benchmarking and Mitigating Language Agency Social Biases in LLMs"
+title: "*[Best Paper, NAACL TrustNLP 2024] White Men Lead, Black Women Help? Benchmarking and Mitigating Language Agency Social Biases in LLMs"
 collection: publications
 Authors: '<b>Yixin Wan</b>, Kai-Wei Chang'
 date: 06/2025
