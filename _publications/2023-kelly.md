@@ -3,13 +3,13 @@ title: "'Kelly is a Warm Person, Joseph is a Role Model': Gender Biases in LLM-G
 collection: publications
 Authors: '<b>Yixin Wan</b>, George Pu, Jiao Sun, Aparna Garimella, Kai-Wei Chang, Nanyun Peng'
 date: 10/2023
-venue: 'EMNLP 2023'
+venue: 'EMNLP'
 excerpt: ''
 presentationurl: 'https://underline.io/lecture/90763-kelly-is-a-warm-person-joseph-is-a-role-model-gender-biases-in-llm-generated-reference-letters'
 paperurl: 'https://arxiv.org/abs/2310.09219'
 topic: 'fairness'
 selected: 'true'
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2023-kelly
 ---
 ---
 <a href='https://arxiv.org/abs/2310.09219.pdf' target="_blank">[Download Paper]</a>
