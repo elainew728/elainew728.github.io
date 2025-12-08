@@ -7,12 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-My name is **Yixin (Elaine) Wan** and I am a PhD student in Computer Science at UCLA. I am fortunate to be advised by Professor [**Kai-Wei Chang**](https://web.cs.ucla.edu/~kwchang/) and have been a proud member of the [UCLANLP](https://web.cs.ucla.edu/~kwchang/members/) research group. My research focuses on building trustworthy multimodal generative models: specirically, I have worked on improving the controllability, fairness, and factuality in text, image and video generation. I completed my B.S. in Applied Mathematics (double major in Economics) also at UCLA. Go Bruins! 
+My name is **Yixin (Elaine) Wan** and I am a PhD student in Computer Science at UCLA. I am fortunate to be advised by Professor [**Kai-Wei Chang**](https://web.cs.ucla.edu/~kwchang/) and have been a proud member of the [UCLANLP](https://web.cs.ucla.edu/~kwchang/members/) research group. My research focuses on building trustworthy multimodal generative models: specifically, I have worked on improving the controllability, fairness, and factuality in text and image generation. I completed my B.S. in Applied Mathematics (double major in Economics) also at UCLA. Go Bruins! 
 
-Currently, I am a research intern at **Tencent AI Lab** in Bellevue, WA, working on controllable video generation. My mentor is Wenhao Yu and Lei Ke. Previously, I have interned at *Amazon AGI* and *Microsoft Research Asia (MSRA)*.  
+Currently, I am a research intern at **Tencent AI Lab** in Bellevue, WA, working on controllable image editing. My mentor is [Lei Ke](https://www.kelei.site/) and [Wenhao Yu](https://wyu97.github.io/). Previously, I have interned at *Amazon AGI* and *Microsoft Research Asia (MSRA)*.  
 
 News
 ======
+* [2025/09] I am humbled to be awarded the 2025 [Amazon AI Fellowship](https://samueli.ucla.edu/15-ucla-engineering-doctoral-students-named-amazon-ai-fellows/) 🎉!
 * [2025/08] 3 papers on *LLM Unlearning* and *Fairness* accepted to **EMNLP 2025 Findings** 🎉! Check them out:
   * [Not Every Token Needs Forgetting: Selective Unlearning to Limit Change in Utility in Large Language Model Unlearning](https://arxiv.org/abs/2506.00876)
   * [LUME: LLM Unlearning with Multitask Evaluations](https://arxiv.org/abs/2502.15097)
