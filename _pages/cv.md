@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Please find my latest CV [here](/files/Yixin Wan_resume_202508_v2.pdf) (updated 2025/08).
+Please find my latest CV [here](/files/Yixin Wan_resume_202512.pdf) (updated 2025/12).
 
 # Education
 * <span style="color:black; font-size:15px"><b><a href="https://cs.ucla.edu" target="_blank"><font color="brown" size="4">University of California, Los Angeles</font></a></b></span><br/>
@@ -48,9 +48,11 @@ Please find my latest CV [here](/files/Yixin Wan_resume_202508_v2.pdf) (updated 
   * ACL 2023
   * EMNLP 2023
   * ACL ARR: 2023, 2024, 2025
-  * ICLR: 2025
+  * ICLR: 2025, 2026
   * NeurIPS: 2025
+  * CVPR: 2026
 * Program Chair: NAACL TrustNLP 2024, 2025
 
 # Awards
+* Amazon AI Fellowship, 2025
 * Best Short Paper, Naacl TrustNLP 2024
