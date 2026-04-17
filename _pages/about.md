@@ -13,7 +13,7 @@ I will join **Meta Superintelligence Labs** as a Research Scientist Intern in Ju
 
 News
 ======
-* [2026/04] 2 papers accepted to **ACL 2026 Main conference** and 1 accepted to Findings 🎉! See you in San Diego 😊
+* [2026/04] 2 papers accepted to **ACL 2026 Main conference** and 1 accepted to Findings 🎉! More details coming soon. See you in San Diego 😊
 * [2026/02] [MotionEdit](https://arxiv.org/abs/2512.10284) is accepted to **CVPR 2026** 🎉! See you in Denver 😄
 * [2025/12] 📢 ⭐️ New Work on **Motion Image Editing** with *Tencent AI Lab* released! Check it out: [MotionEdit: Benchmarking and Learning Motion-Centric Image Editing](https://arxiv.org/abs/2512.10284) . Also check out more demos on our [Project Page](https://motion-edit.github.io/)!
 * [2025/09] I am humbled to be awarded the 2025 [Amazon AI Fellowship](https://samueli.ucla.edu/15-ucla-engineering-doctoral-students-named-amazon-ai-fellows/) 🎉!
