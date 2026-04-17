@@ -9,10 +9,11 @@ redirect_from:
 
 My name is **Yixin (Elaine) Wan** and I am a PhD student in Computer Science at UCLA. I am fortunate to be advised by Professor [**Kai-Wei Chang**](https://web.cs.ucla.edu/~kwchang/) and have been a proud member of the [UCLANLP](https://web.cs.ucla.edu/~kwchang/members/) research group. My research focuses on building trustworthy multimodal generative models: specifically, I have worked on improving the controllability, fairness, and factuality in text and image generation. I completed my B.S. in Applied Mathematics (double major in Economics) also at UCLA. Go Bruins! 
 
-Currently, I am a research intern at **Tencent AI Lab** in Bellevue, WA, working on controllable image editing. My mentor is [Lei Ke](https://www.kelei.site/) and [Wenhao Yu](https://wyu97.github.io/). Previously, I have interned at *Amazon AGI* and *Microsoft Research Asia (MSRA)*.  
+I will join **Meta Superintelligence Labs** as a Research Scientist Intern in June 2026 in *Menlo Park, CA*, building multimodal foundation models. Previously, I have interned at *Tencent AI Lab*, *Amazon AGI*, and *Microsoft Research Asia (MSRA)*.  
 
 News
 ======
+* [2026/04] 2 papers accepted to **ACL 2026 Main conference** and 1 accepted to Findings 🎉! See you in San Diego 😊
 * [2026/02] [MotionEdit](https://arxiv.org/abs/2512.10284) is accepted to **CVPR 2026** 🎉! See you in Denver 😄
 * [2025/12] 📢 ⭐️ New Work on **Motion Image Editing** with *Tencent AI Lab* released! Check it out: [MotionEdit: Benchmarking and Learning Motion-Centric Image Editing](https://arxiv.org/abs/2512.10284) . Also check out more demos on our [Project Page](https://motion-edit.github.io/)!
 * [2025/09] I am humbled to be awarded the 2025 [Amazon AI Fellowship](https://samueli.ucla.edu/15-ucla-engineering-doctoral-students-named-amazon-ai-fellows/) 🎉!
