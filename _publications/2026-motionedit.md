@@ -3,7 +3,7 @@ title: "MotionEdit: Benchmarking and Learning Motion-Centric Image Editing"
 collection: publications
 Authors: 'Yixin Wan, Lei Ke, Wenhao Yu, Kai-Wei Chang, Dong Yu'
 date: 12/2025
-venue: 'arXiv'
+venue: 'CVPR 2026'
 excerpt: 'We introduce MotionEdit, a novel dataset and benchmark for motion-centric image editing. We also propose MotionNFT (Motion-guided Negative-aware FineTuning), a post-training framework with motion alignment rewards to guide models on motion editing task.'
 presentationurl: ''
 paperurl: 'https://arxiv.org/abs/2512.10284'
