@@ -15,6 +15,8 @@ I have joined **Meta Superintelligence Labs** as a Research Scientist Intern in 
 
 News
 ======
+* [2026/07] I served as a Program Chair for the second time at the **ACL 2026 TrustNLP Workshop**. Grateful for all the support!
+* [2026/07] I gave a talk on **Reflective & Bias-Aware Knowledge Control** at the **ACL 2026 Tutorial: Knowledge Control for Responsible Generative AI**, where I highlight agentic mitigation and our related recent work as a promising research direction in trustworthy AI.
 * [2026/06] I joined **Meta Superintelligence Labs** as a Research Scientist Intern at Menlo Park, CA. I will be working on multi-task Multimodal LLM mid-training. Excited to explore the Bay!
 * [2026/04] 2 papers accepted to **ACL 2026 Main conference** and 1 accepted to Findings 🎉! More details coming soon. See you in San Diego 😊
 * [2026/02] [MotionEdit](https://arxiv.org/abs/2512.10284) is accepted to **CVPR 2026** 🎉! See you in Denver 😄
