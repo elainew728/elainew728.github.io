@@ -7,13 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-My name is **Yixin (Elaine) Wan** and I am a PhD candidate in Computer Science at UCLA. I am fortunate to be advised by Professor [**Kai-Wei Chang**](https://web.cs.ucla.edu/~kwchang/) and have been a proud member of the [UCLANLP](https://web.cs.ucla.edu/~kwchang/members/) research group. My research focuses on building trustworthy multimodal generative models: specifically, I have worked on improving the controllability, fairness, and factuality in text and image generation. I completed my B.S. in Applied Mathematics (double major in Economics) also at UCLA. Go Bruins! 
+My name is **Yixin (Elaine) Wan** and I am a final-year PhD candidate in Computer Science at UCLA. I am fortunate to be advised by Professor [**Kai-Wei Chang**](https://web.cs.ucla.edu/~kwchang/) and have been a proud member of the [UCLANLP](https://web.cs.ucla.edu/~kwchang/members/) research group. My research focuses on building trustworthy multimodal understanding and generative models: specifically, I have worked on improving the controllability, fairness, and factuality in LLMs, MLLMs, and image generation models. I completed my B.S. in Applied Mathematics (double major in Economics) also at UCLA. Go Bruins! 
 
-I have joined **Meta Superintelligence Labs** as a Research Scientist Intern in June 2026 in *Menlo Park, CA*, building multimodal foundation models. Previously, I have interned at *Tencent Hunyuan*, *Amazon AGI*, and *Microsoft Research Asia (MSRA)*.  
+I have joined **Meta Superintelligence Labs** as a Research Scientist Intern in June 2026 in *Menlo Park, CA*, working on multi-task large-scale MLLM joint mid-training. Previously, I have interned at *Tencent Hunyuan*, *Amazon AGI*, and *Microsoft Research Asia (MSRA)*.  
+
+<span style="color: #ff3a85;">I am actively looking for full-time opportunities starting EOY 2026 or 2027 spring. Feel free to reach out!</span>
 
 News
 ======
-* [2026/06] I joined **Meta Superintelligence Labs** as a Research Scientist Intern at Menlo Park, CA. I will be working on improving Vision-Language Foundation Models. Excited to explore the Bay!
+* [2026/06] I joined **Meta Superintelligence Labs** as a Research Scientist Intern at Menlo Park, CA. I will be working on multi-task Multimodal LLM mid-training. Excited to explore the Bay!
 * [2026/04] 2 papers accepted to **ACL 2026 Main conference** and 1 accepted to Findings 🎉! More details coming soon. See you in San Diego 😊
 * [2026/02] [MotionEdit](https://arxiv.org/abs/2512.10284) is accepted to **CVPR 2026** 🎉! See you in Denver 😄
 * [2025/12] 📢 ⭐️ New Work on **Motion Image Editing** with *Tencent Hunyuan* released! Check it out: [MotionEdit: Benchmarking and Learning Motion-Centric Image Editing](https://arxiv.org/abs/2512.10284) . Also check out more demos on our [Project Page](https://motion-edit.github.io/)!
