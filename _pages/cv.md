@@ -25,7 +25,7 @@ Please find my latest CV [here](/files/Yixin Wan_resume_202607.pdf) (updated 202
     - Period of Study: September 2011 - July 2018 <br/>
 
 # Internship
-* <span style="color:black; font-size:15px"><b><a href="https://ai.meta.com/" target="_blank"><font color="brown" size="4">Meta Superintelligence Labs</font></a></b></span> (June 2026 – Current)
+* <span style="color:black; font-size:15px"><b><a href="https://ai.meta.com/" target="_blank"><font color="brown" size="4">FAIR @Meta Superintelligence Labs</font></a></b></span> (June 2026 – Current)
     - Research Scientist Intern
     - Mentors: [Apoorv Vyas](https://apoorv2904.github.io/), [Daniel Bolya](https://dbolya.com/), [Chaitanya K. Ryali](https://scholar.google.com/citations?user=4LWx24UAAAAJ&hl=en) and [Haitham Khedr](https://hkhedr.com/)
     - Manager: [Christoph Feichtenhofer](https://feichtenhofer.github.io/)
