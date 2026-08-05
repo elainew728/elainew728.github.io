@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is **Yixin (Elaine) Wan** and I am a final-year PhD candidate in Computer Science at UCLA. I am fortunate to be advised by Professor [**Kai-Wei Chang**](https://web.cs.ucla.edu/~kwchang/) and have been a proud member of the [UCLANLP](https://web.cs.ucla.edu/~kwchang/members/) research group. My research focuses on building trustworthy multimodal understanding and generative models: specifically, I have worked on improving the controllability, fairness, and factuality in LLMs, MLLMs, and image generation models. I completed my B.S. in Applied Mathematics (double major in Economics) also at UCLA. Go Bruins! 
+My name is **Yixin (Elaine) Wan** and I am a final-year PhD candidate in Computer Science at UCLA. I am fortunate to be advised by Professor [**Kai-Wei Chang**](https://web.cs.ucla.edu/~kwchang/) and be a member of the [UCLANLP](https://web.cs.ucla.edu/~kwchang/members/) research group. My research focuses on building trustworthy multimodal understanding and generative models: specifically, I have worked on improving the controllability, fairness, and factuality in LLMs, MLLMs, and image generation models. I completed my B.S. in Applied Mathematics (double major in Economics) also at UCLA. Go Bruins! 
 
 I have joined **Meta Superintelligence Labs** as a Research Scientist Intern in June 2026 in *Menlo Park, CA*, working on multi-task large-scale MLLM joint mid-training. Previously, I have interned at *Tencent Hunyuan*, *Amazon AGI*, and *Microsoft Research Asia (MSRA)*.  
 
