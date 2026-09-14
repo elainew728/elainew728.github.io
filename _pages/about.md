@@ -15,6 +15,7 @@ I have joined **FAIR @Meta Superintelligence Labs** as a Research Scientist Inte
 
 News
 ======
+* [2026/09] 📢 🤔 New Work: How well can SOTA Multimodal LLM recognize fine-grained visual differences in two images? Introducing **VDiff-Bench: A Challenging Benchmark for Fine-Grained Image Difference Identification**! Check it out: [Paper link](https://arxiv.org/abs/2609.06245) . Also see our [Project Page](https://huggingface.co/spaces/elaine1wan/vdiff-bench)!
 * [2026/07] I served as a Program Chair for the second time at the **ACL 2026 TrustNLP Workshop**. Grateful for all the support!
 * [2026/07] I gave a talk on **Reflective & Bias-Aware Knowledge Control** at the **ACL 2026 Tutorial: Knowledge Control for Responsible Generative AI**, where I highlight agentic mitigation and our related recent work as a promising research direction in trustworthy AI.
 * [2026/06] I joined **FAIR @Meta Superintelligence Labs** as a Research Scientist Intern at Menlo Park, CA. I will be working on multi-task Multimodal LLM mid-training. Excited to explore the Bay!

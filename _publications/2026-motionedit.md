@@ -9,7 +9,7 @@ presentationurl: ''
 paperurl: 'https://arxiv.org/abs/2512.10284'
 topic: 'fact_faith'
 selected: 'true'
-permalink: /publication/2025-motionedit
+permalink: /publication/2026-motionedit
 codeurl: 'https://motion-edit.github.io/'
 ---
 ---
