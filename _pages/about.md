@@ -9,7 +9,7 @@ redirect_from:
 
 My name is **Yixin (Elaine) Wan** and I am a final-year PhD candidate in Computer Science at UCLA. I am fortunate to be advised by Professor [**Kai-Wei Chang**](https://web.cs.ucla.edu/~kwchang/) and be a member of the [UCLANLP](https://web.cs.ucla.edu/~kwchang/members/) research group. I completed my B.S. in Applied Mathematics (double major in Economics) also at UCLA. Go Bruins! 
 
-I build and improve multimodal LLMs and tool-augmented agentic systems through mid- and post-training, large-scale synthetic data construction, workflow / harness design, and rigorous evaluation on novel tasks. I study general multimodal capabilities, controllability, and trustworthiness, with an emphasis on diagnosing new model failure modes, then use both training- and inference-time methods to improve models based on insights.
+I build and improve multimodal LLMs through (a) mid-training and post-training, especially through large-scale synthetic data construction, (b) workflow / harness evolvement for LLM agents on challenging new tasks, and (c) interpretable and faithful evaluation on novel tasks. My research is driven by diagnosing and resolving new model failure modes on multimodal understanding, controllability, and trustworthiness.
 
 I have joined **FAIR @Meta Superintelligence Labs** as a Research Scientist Intern in June 2026 in *Menlo Park, CA*, working on multi-task large-scale MLLM joint mid-training. Previously, I have interned at *Tencent Hunyuan*, *Amazon AGI*, and *Microsoft Research Asia (MSRA)*.  
 
@@ -17,7 +17,7 @@ I have joined **FAIR @Meta Superintelligence Labs** as a Research Scientist Inte
 
 News
 ======
-* [2026/09] 📢 🤔 New Work: How well can SOTA Multimodal LLM recognize fine-grained visual differences in two images? Introducing **VDiff-Bench: A Challenging Benchmark for Fine-Grained Image Difference Identification**! Check it out: [Paper link](https://arxiv.org/abs/2609.06245) . Also see our [Project Page](https://huggingface.co/spaces/elaine1wan/vdiff-bench)!
+* [2026/09] 📢 🤔 New Work: How well can SOTA Multimodal LLM recognize fine-grained visual differences in two images? Introducing **VDiff-Bench: Diagnosing and Improving Fine-Grained Visual Difference Understanding**! Check it out: [Paper link](https://arxiv.org/abs/2609.06245) . Also see our [Project Page](https://huggingface.co/spaces/elaine1wan/vdiff-bench)!
 * [2026/07] I served as a Program Chair for the second time at the **ACL 2026 TrustNLP Workshop**. Grateful for all the support!
 * [2026/07] I gave a talk on **Reflective & Bias-Aware Knowledge Control** at the **ACL 2026 Tutorial: Knowledge Control for Responsible Generative AI**, where I highlight agentic mitigation and our related recent work as a promising research direction in trustworthy AI.
 * [2026/06] I joined **FAIR @Meta Superintelligence Labs** as a Research Scientist Intern at Menlo Park, CA. I will be working on multi-task Multimodal LLM mid-training. Excited to explore the Bay!

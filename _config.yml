@@ -25,7 +25,7 @@ author:
   avatar           : "profile.JPG"
   name             : "Yixin (Elaine) Wan"
   pronouns         : "she/her"  
-  bio              : "PhD candidate in Computer Science at UCLA, advised by Professor Kai-Wei Chang. I build and improve multimodal LLMs and agents through mid- and post-training, synthetic data curation, and novel evaluation frameworks."
+  bio              : "PhD candidate in Computer Science at UCLA, advised by Professor Kai-Wei Chang. I build and improve multimodal LLMs and agents through mid- and post-training, synthetic data curation, as well as interpretable and novel evaluation."
   location         : "Los Angeles, CA"
   employer         : "UCLA"
   uri              : # URL
